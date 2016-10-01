@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/talha/vt/lab/nodejs/nodebenchmark/benchmarks/node'
+let g:netrw_dirhist_2='/home/talha/vt/lab/sniper/sniper-6.1_64/benchmark/benchmarks/tools/hooks'
+let g:netrw_dirhist_3='/home/talha/vt/lab/sniper/sniper-6.1_64/sniper-6.1/common/core'
+let g:netrw_dirhist_4='/home/talha/vt/lab/sniper/sniper-6.1_64/sniper-6.1/config'
+let g:netrw_dirhist_5='/home/talha/vt/lab/zsim/zsim/build'
+let g:netrw_dirhist_6='/home/talha/attach_node_outdir'
+let g:netrw_dirhist_7='/home/talha/.vim'
